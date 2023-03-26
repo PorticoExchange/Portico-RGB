@@ -10,7 +10,7 @@ In this example, we define an HTLC with a preimage of all 0x01 bytes, a hash of 
 
 Note that this code only creates the input and output for an HTLC, and does not include any logic for executing the HTLC
 
-Based in (RGB and LN)[https://docs.rgb.info/lightning-network-compatibility]
+Based in [RGB and LN](https://docs.rgb.info/lightning-network-compatibility)
 
 Simulation B
   
