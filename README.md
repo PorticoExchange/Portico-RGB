@@ -1,6 +1,7 @@
-# Portico-RGB
+# Portico-RGB (PoC)
 
 RGB&lt;>Portico client
+
 
 # How works?
 
